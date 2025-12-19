@@ -5,6 +5,16 @@
     <link>https://github.com/JordanCoin/writer-releases/releases</link>
     <description>Most recent updates to Writer</description>
     <language>en</language>
-    <!-- Release items will be added automatically by GitHub Actions -->
+    <item>
+      <title>Version 0.0.4</title>
+      <pubDate>Fri, 19 Dec 2025 06:36:27 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/JordanCoin/writer-releases/releases/download/v0.0.4/Writer.zip"
+        length="5106781"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

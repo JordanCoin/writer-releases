@@ -6,14 +6,14 @@
     <description>Most recent updates to Writer</description>
     <language>en</language>
     <item>
-      <title>Version 0.0.7</title>
-      <pubDate>Fri, 19 Dec 2025 07:13:21 +0000</pubDate>
+      <title>Version 0.0.8</title>
+      <pubDate>Fri, 19 Dec 2025 07:22:00 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.0.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/JordanCoin/writer-releases/releases/download/v0.0.7/Writer.zip"
-        length="5163944"
+        url="https://github.com/JordanCoin/writer-releases/releases/download/v0.0.8/Writer.zip"
+        length="5163821"
         type="application/octet-stream"/>
     </item>
   </channel>
